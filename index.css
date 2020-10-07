@@ -16,3 +16,14 @@ td.mot{
     color: cornflowerblue;
     width: 600px;
 }
+th.mot{
+    width: 300px;
+}
+th.hai{
+    width: 300px;
+    text-align: center;
+    background-color: yellow;
+}
+tr.tablehai{
+    height: 30px;
+}
