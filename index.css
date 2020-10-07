@@ -1,3 +1,18 @@
 .container{
-    width: 900px;
+    width: 1200px;
+}
+
+td.hai{
+     text-align: right;
+     padding-right: 15px;
+     font-size: 20px;
+     color: cornflowerblue;
+     width: 600px;
+}
+td.mot{
+    text-align: left;
+    padding-left: 15px;
+    font-size: 20px;
+    color: cornflowerblue;
+    width: 600px;
 }
